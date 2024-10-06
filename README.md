@@ -1,12 +1,5 @@
 <h1 align="center"><b>Hi , I'm Pavithran </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
 <br>
-
 
 
 <h3 align="left">Your friendly neighborhood Data Scientist, swinging through the realms of Data Science and IoT! ⚡ Whether it’s harnessing the power of code or bringing devices to life, I’m all about creating meaningful insights—one dataset to rule them all, one algorithm to find them! 🧙‍♂️📊<br><br>When I’m not building smart bots or unraveling data mysteries, I’m channeling my inner Einstein, where E = mc² transforms into E = (Models × Code)²—the Energy of Innovation is equal to the power of models multiplied by code, squared by the connections they create. And in true Tesla fashion, I believe that the future lies in wireless intelligence—where data and IoT merge to power the world's most groundbreaking innovations. My goal? To bridge the gap between code and the Internet of Things, turning raw data into actionable solutions that light up the future, just like a Tesla coil sparking to life! ⚡🔌<br><br>Got a project? Let’s team up, leverage the synergy of data science and IoT, and create something extraordinary! 🤖✨</h3>
